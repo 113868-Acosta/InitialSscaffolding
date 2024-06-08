@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ar.edu.utn.frc.tup.lciii</groupId>
-	<artifactId>Application</artifactId>
+	<artifactId>InitialSscaffolding</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Application</name>
+	<name>InitialSscaffolding</name>
 	<description>Application</description>
 	<properties>
 		<java.version>17</java.version>
